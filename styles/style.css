@@ -1,0 +1,8 @@
+.link:hover {
+ color: rgb(255, 255, 255) !important; 
+ transition: all 0.2s ease-out;
+}
+
+.link:focus {
+    color: white;
+}
